@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+    font: helvetica;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+.tim-service{
+    padding-top: 100px;
+}
+
+.tim-contact{
+    padding-top: 100px;
+}
+
+.tim-contact p {
+    padding-top: 15px;
+    font-size:15px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+    font: helvetica;
+    font-weight: bold;
+
+}
+
+p {
+    text-align: center;
+}
